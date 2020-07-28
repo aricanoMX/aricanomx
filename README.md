@@ -3,7 +3,7 @@
 <!-- **aricanoMX/aricanomx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-[![Platzi](https://img.shields.io/badge/Platzi-Andrés_Ricaño-lemon?style=flat-square&logo=Platzi&logoColor=lemon&link=)](https://platzi.com/@AricanoMX/)
+[![Platzi](https://img.shields.io/badge/Platzi-Andrés_Ricaño-lemon?style=flat-square&logo=Platzi&logoColor=lemon)](https://platzi.com/@AricanoMX/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/aricanomx)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aricanomx/)
 
