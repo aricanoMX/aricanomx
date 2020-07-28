@@ -8,9 +8,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/aricanomx/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aricanomx@gmail.com)
 
-
-&nbsp;
-
 ### 👩‍💻 I'm working on
 - Building projects and my portfolio website. 
 Although, I think I'll wait to learn React before I build the website.
