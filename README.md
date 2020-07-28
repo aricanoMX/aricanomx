@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - Food Blog: <a href = "https://callitameal.com">callitameal.com</a>
 <br>
 <br>
-From Juel07 (https://github.com/aricanoMX)
+From aricanoMX (https://github.com/aricanoMX)
