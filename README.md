@@ -23,5 +23,5 @@ Although, I think I'll wait to learn React before I build the website.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aricanomx&bg_color=373737&title_color=9E55E2&text_color=e9c46a&show_icons=true)](https://github.com/aricanoMX)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aricanomx&bg_color=373737&title_color=9E55E2&text_color=e9c46a&show_icons=true&icon_color=8A2BE2&line_height=34)](https://github.com/aricanoMX)
 ---
-info[Here](https://github.com/anuraghazra/github-readme-stats#customization)
+Info [Here](https://github.com/anuraghazra/github-readme-stats#customization)
 
