@@ -22,4 +22,4 @@ Although, I think I'll wait to learn React before I build the website.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aricanomx)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aricanomx&show_icons=true)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aricanomx&show_icons=true&icon_color=blueviolet&theme=dark&title_color=blueviolet)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aricanomx&show_icons=true&icon_color=8A2BE2&theme=dark&title_color=8A2BE2)
