@@ -18,16 +18,6 @@ Here are some ideas to get you started:
 - Building projects and my portfolio website. 
 Although, I think I'll wait to learn React before I build the website.
 
-
-### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/aricanomx/">Andrés Ricaño</a>
-- Twitter: <a href = "https://twitter.com/aricanoMX">aricanoMX</a>
-- Website: coming soon
-- Food Blog: <a href = "https://callitameal.com">callitameal.com</a>
-<br>
-<br>
-From aricanoMX (https://github.com/aricanoMX)
-
 ### ☕ Get in touch
 - Twitter - [@aricanoMX](https://twitter.com/aricanoMX)
 - LinkedIn - [Andres Ricaño](https://www.linkedin.com/in/aricanomx/)
