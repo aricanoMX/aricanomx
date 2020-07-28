@@ -5,7 +5,7 @@
 
 
 [![Platzi](https://platzi.com/@AricanoMX/)](https://platzi.com/@AricanoMX/)
-[![Platzi](https://img.shields.io/badge/-Platzi)](https://platzi.com/@AricanoMX/)
+[![Platzi](https://img.shields.io/badge/-Platzi-?style=flat&logo=Platzi&logoColor=White)](https://platzi.com/@AricanoMX/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aricanomx)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aricanomx/)
 
