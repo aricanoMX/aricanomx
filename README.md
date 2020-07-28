@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### ☕ Get in touch
+- LinkedIn: <a href = "https://www.linkedin.com/in/aricanomx/">Andrés Ricaño</a>
+- Twitter: <a href = "https://twitter.com/aricanoMX">aricanoMX</a>
+- Website: coming soon
+- Food Blog: <a href = "https://callitameal.com">callitameal.com</a>
+<br>
+<br>
+From Juel07 (https://github.com/aricanoMX)
