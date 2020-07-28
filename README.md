@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👩‍💻 I'm working on
+- Building projects and my portfolio website. 
+Although, I think I'll wait to learn React before I build the website.
+
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/aricanomx/">Andrés Ricaño</a>
@@ -23,3 +27,11 @@ Here are some ideas to get you started:
 <br>
 <br>
 From aricanoMX (https://github.com/aricanoMX)
+
+## 📫 Contact Me
+- Twitter - [@aricanoMX](https://twitter.com/aricanoMX)
+- LinkedIn - [Andres Ricaño](https://www.linkedin.com/in/aricanomx/)
+- Website - [Coming Soon](https://aricanomx.com)
+
+---
+⭐️ From [gc-codes](https://github.com/gc-codes)
