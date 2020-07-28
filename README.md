@@ -20,7 +20,6 @@ Although, I think I'll wait to learn React before I build the website.
 ---
 ⭐️ From [aricanoMX](https://github.com/aricanoMX)
 
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aricanomx&theme=dark&&title_color=8A2BE2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aricanomx&show_icons=true&icon_color=8A2BE2&theme=dark&title_color=8A2BE2)
