@@ -5,8 +5,8 @@
 
 
 [![Platzi](https://platzi.com/@AricanoMX/)](https://platzi.com/@AricanoMX/)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aricanomx)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aricanomx/)
+[![Github: aricanoMX](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aricanomx)
+[![Linkedin: Andrés Ricaño](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aricanomx/)
 
 ⚡ Frontend Developer ⚡
 ### 👩‍💻 I'm working on
