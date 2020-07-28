@@ -28,10 +28,10 @@ Although, I think I'll wait to learn React before I build the website.
 <br>
 From aricanoMX (https://github.com/aricanoMX)
 
-## 📫 Contact Me
+### ☕ Get in touch
 - Twitter - [@aricanoMX](https://twitter.com/aricanoMX)
 - LinkedIn - [Andres Ricaño](https://www.linkedin.com/in/aricanomx/)
 - Website - [Coming Soon](https://aricanomx.com)
 
 ---
-⭐️ From [gc-codes](https://github.com/gc-codes)
+⭐️ From [aricanoMX](https://github.com/aricanoMX)
