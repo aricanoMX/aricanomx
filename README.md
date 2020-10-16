@@ -1,4 +1,4 @@
-## Hi, I'm Andrés Ricaño, a Junio Frontend Developer 🚀 from México.
+## Hi, I'm Andrés Ricaño, a Frontend Developer 🚀 from México.
 
 <!-- **aricanoMX/aricanomx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
