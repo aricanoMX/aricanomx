@@ -1,11 +1,9 @@
 ## Hi, I'm Andrés Ricaño, a Frontend Developer 🚀 from México.
 
 <!-- **aricanoMX/aricanomx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-
-[![Platzi](https://img.shields.io/badge/Platzi-Andrés_Ricaño-lemon?style=flat-square&logo=Platzi&logoColor=lemon)](https://platzi.com/@AricanoMX/)
 [![Github](https://img.shields.io/badge/Github-aricanoMX-blueviolet?style=flat-square&logo=Github&logoColor=white)](https://github.com/aricanomx)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Andrés_Ricaño-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aricanomx/)
+[![Platzi](https://img.shields.io/badge/Platzi-Andrés_Ricaño-lemon?style=flat-square&logo=Platzi&logoColor=lemon)](https://platzi.com/@AricanoMX/)
 
 ⚡ Frontend Developer ⚡
 ### 👩‍💻 I'm working on
