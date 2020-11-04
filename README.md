@@ -14,8 +14,8 @@ Although, I think I'll wait to learn React before I build the website.
 
 ### ☕ Get in touch
 - Twitter - [@aricanoMX](https://twitter.com/aricanoMX)
-- LinkedIn - [Andres Ricaño](https://www.linkedin.com/in/aricanomx/)
-- Website - [Coming Soon](https://aricanomx.com)
+- LinkedIn - [@Andres Ricaño](https://www.linkedin.com/in/aricanomx/)
+- Website - [aricanomx.dev](https://aricanomx.dev)
 
 ---
 ⭐️ From [aricanoMX](https://github.com/aricanoMX)
