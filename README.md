@@ -6,11 +6,6 @@
 - Frontend Developer specialized in React.js. 🖥
 - I handle technologies like Javascript, React, Redux, Node.js and I am currently learning Mongo. 
 
-### ☕ Get in touch
-- Twitter - [@aricanoMX](https://twitter.com/aricanoMX)
-- LinkedIn - [@Andres Ricaño](https://www.linkedin.com/in/aricanomx/)
-<!-- - Website - [aricanomx.dev](https://aricanomx.dev) -->
-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aricanomx&bg_color=373737&title_color=9E55E2&text_color=e9c46a&show_icons=true)](https://github.com/aricanoMX)
@@ -26,6 +21,11 @@ You can find me here:
 [![Github](https://img.shields.io/badge/Github-aricanoMX-blueviolet?style=flat-square&logo=Github&logoColor=white)](https://github.com/aricanomx)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Andrés_Ricaño-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aricanomx/)
 [![Platzi](https://img.shields.io/badge/Platzi-Andrés_Ricaño-lemon?style=flat-square&logo=Platzi&logoColor=lemon)](https://platzi.com/@AricanoMX/)
+### ☕ Get in touch
+- Twitter - [@aricanoMX](https://twitter.com/aricanoMX)
+- LinkedIn - [@Andres Ricaño](https://www.linkedin.com/in/aricanomx/)
+<!-- - Website - [aricanomx.dev](https://aricanomx.dev) -->
+
 
 ⭐️ From [aricanoMX](https://github.com/aricanoMX)
  
