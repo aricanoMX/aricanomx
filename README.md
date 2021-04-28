@@ -18,8 +18,10 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aricanomx&bg_color=373737&title_color=9E55E2&text_color=e9c46a&show_icons=true&icon_color=8A2BE2&line_height=34)](https://github.com/p/aricanoMX)
 
 ---
-
+<p align="center">
 You can find me here:
+</p>
+
 <!-- **aricanoMX/aricanomx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 [![Github](https://img.shields.io/badge/Github-aricanoMX-blueviolet?style=flat-square&logo=Github&logoColor=white)](https://github.com/aricanomx)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Andrés_Ricaño-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aricanomx/)
