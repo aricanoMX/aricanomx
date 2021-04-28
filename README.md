@@ -14,9 +14,9 @@
 
 ---
 
-<p align="center">
+<h2 align="center">
  <strong>You can find me here: </strong>
-</p>
+</h2>
 
 <!-- **aricanoMX/aricanomx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 [![Github](https://img.shields.io/badge/Github-aricanoMX-blueviolet?style=flat-square&logo=Github&logoColor=white)](https://github.com/aricanomx)
