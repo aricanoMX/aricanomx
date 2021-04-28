@@ -8,8 +8,10 @@
 - I handle technologies like Javascript, React, Redux, Node.js and I am currently learning Mongo. 
 
 ---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aricanomx&bg_color=373737&title_color=9E55E2&text_color=e9c46a&show_icons=true)](https://github.com/aricanoMX)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aricanomx&bg_color=373737&title_color=9E55E2&text_color=e9c46a&show_icons=true&icon_color=8A2BE2&line_height=34)](https://github.com/p/aricanoMX)
+
 ---
 
 <h2 align="center">
