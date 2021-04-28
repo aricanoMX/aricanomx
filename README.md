@@ -26,9 +26,10 @@
 
 <h3 align="center">
  <strong> or </strong>
+ <br />
+ ☕ Get in touch by
 </h3>
 
-### ☕ Get in touch by:
 <!-- - Website - [aricanomx.dev](https://aricanomx.dev) -->
 
 
