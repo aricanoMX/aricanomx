@@ -21,12 +21,12 @@
 <p align="center">
 You can find me here:
 </p>
-<div align='center'>
+
 <!-- **aricanoMX/aricanomx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 [![Github](https://img.shields.io/badge/Github-aricanoMX-blueviolet?style=flat-square&logo=Github&logoColor=white)](https://github.com/aricanomx)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Andrés_Ricaño-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aricanomx/)
 [![Platzi](https://img.shields.io/badge/Platzi-Andrés_Ricaño-lemon?style=flat-square&logo=Platzi&logoColor=lemon)](https://platzi.com/@AricanoMX/)
- </div>
+
  
 <!-- Info [(Here)](https://github.com/anuraghazra/github-readme-stats#customization)-->
 
