@@ -6,9 +6,9 @@
 [![Platzi](https://img.shields.io/badge/Platzi-Andrés_Ricaño-lemon?style=flat-square&logo=Platzi&logoColor=lemon)](https://platzi.com/@AricanoMX/)
 
 ⚡ Frontend Developer ⚡
-### 👩‍💻 I'm working on
-- Building projects and my portfolio website. 
-Although, I think I'll wait to learn React before I build the website.
+<!-- ### 👩‍💻 I'm working on --> 
+- Frontend Developer specialized in React.js. 🖥
+I handle technologies like Javascript, React, Redux, Node.js and I am currently learning Mongo. 
 
 ### ☕ Get in touch
 - Twitter - [@aricanoMX](https://twitter.com/aricanoMX)
