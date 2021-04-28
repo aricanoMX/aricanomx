@@ -3,7 +3,8 @@
 
 ⚡ Frontend Developer ⚡
 <!-- ### 👩‍💻 I'm working on --> 
-- Frontend Developer specialized in React.js. 🖥
+- Frontend Developer specialized in React.js. 🖥 🇲🇽 r👨🏻‍🎓👨🏻‍💻 
+- With an amazing wish for learning continuously. 📚📖📰
 - I handle technologies like Javascript, React, Redux, Node.js and I am currently learning Mongo. 
 
 ---
@@ -33,6 +34,7 @@ You can find me here:
 <!-- Info [(Here)](https://github.com/anuraghazra/github-readme-stats#customization)-->
 
 
+Pd: Canada one of these days I will go for you.❤❄🏕🌲🍀
 
 
 
