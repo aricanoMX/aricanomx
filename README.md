@@ -12,12 +12,12 @@
 <!-- - Website - [aricanomx.dev](https://aricanomx.dev) -->
 
 ---
-⭐️ From [aricanoMX](https://github.com/aricanoMX)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aricanomx&bg_color=373737&title_color=9E55E2&text_color=e9c46a&show_icons=true)](https://github.com/aricanoMX)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aricanomx&bg_color=373737&title_color=9E55E2&text_color=e9c46a&show_icons=true&icon_color=8A2BE2&line_height=34)](https://github.com/p/aricanoMX)
 
 ---
+
 <p align="center">
 You can find me here:
 </p>
@@ -27,6 +27,7 @@ You can find me here:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Andrés_Ricaño-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aricanomx/)
 [![Platzi](https://img.shields.io/badge/Platzi-Andrés_Ricaño-lemon?style=flat-square&logo=Platzi&logoColor=lemon)](https://platzi.com/@AricanoMX/)
 
+⭐️ From [aricanoMX](https://github.com/aricanoMX)
  
 <!-- Info [(Here)](https://github.com/anuraghazra/github-readme-stats#customization)-->
 
