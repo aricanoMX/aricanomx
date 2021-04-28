@@ -24,6 +24,9 @@
 [![Platzi](https://img.shields.io/badge/Platzi-Andrés_Ricaño-lemon?style=flat-square&logo=Platzi&logoColor=lemon)](https://platzi.com/@AricanoMX/)
 [![Twitter](https://img.shields.io/badge/Twitter-@aricanoMX-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/aricanoMX/)
 
+<h3 align="center">
+ <strong> or </strong>
+</h3>
 
 ### ☕ Get in touch by:
 <!-- - Website - [aricanomx.dev](https://aricanomx.dev) -->
