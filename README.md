@@ -3,7 +3,7 @@
 
 ⚡ Frontend Developer ⚡
 <!-- ### 👩‍💻 I'm working on --> 
-- Frontend Developer specialized in React.js. 🖥 🇲🇽 r👨🏻‍🎓👨🏻‍💻 
+- Frontend Developer specialized in React.js. 🖥 👨🏻‍🎓👨🏻‍💻 
 - With an amazing wish for learning continuously. 📚📖📰
 - I handle technologies like Javascript, React, Redux, Node.js and I am currently learning Mongo. 
 
