@@ -29,12 +29,10 @@ You can find me here:
 <!-- - Website - [aricanomx.dev](https://aricanomx.dev) -->
 
 
-⭐️ From [aricanoMX](https://github.com/aricanoMX)
- 
 <!-- Info [(Here)](https://github.com/anuraghazra/github-readme-stats#customization)-->
+⭐️ From [aricanoMX](https://github.com/aricanoMX)
 
-
-Pd: Canada one of these days I will go for you.❤❄🏕🌲🍀
+⭐️ Pd: Canada one of these days I will go for you.❤❄🏕🌲🍀
 
 
 
