@@ -8,7 +8,7 @@
 ⚡ Frontend Developer ⚡
 <!-- ### 👩‍💻 I'm working on --> 
 - Frontend Developer specialized in React.js. 🖥
-I handle technologies like Javascript, React, Redux, Node.js and I am currently learning Mongo. 
+- I handle technologies like Javascript, React, Redux, Node.js and I am currently learning Mongo. 
 
 ### ☕ Get in touch
 - Twitter - [@aricanoMX](https://twitter.com/aricanoMX)
